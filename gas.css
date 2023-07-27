@@ -1,0 +1,60 @@
+h2{
+    text-align: center;
+    color: yellow;
+    font-size: 100 px;
+}
+.url{
+    background-color: brown;
+}
+#yt{
+    color: yellow;
+}
+#steam{
+    color: black;
+}
+#body{
+    background-color: slategray;
+}
+body{
+    background-color: aqua;
+    background-image: url("merc.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: scroll;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+#paragraf{
+    text-transform: capitalize;
+    letter-spacing: normal;
+}
+#wwf{
+    font-size: 14;
+}
+.tautan:hover{
+    background-color: red;
+}
+.tautan:link{
+    background-color: yellow;
+}
+#dua{
+    background: blue;
+    font-size: 20px;
+    max-width: 10%;
+    max-height: 25%;
+    color: red;
+    text-align: justify;
+}
+#yul{
+    text-decoration: none;
+}
+#yul:hover{
+    background-color: yellow;
+}
+#yul:link{
+    background-color: yellowgreen;
+}
+#yul{
+    display: block;
+    width: 50%;     
+    height: 100px;
+}
